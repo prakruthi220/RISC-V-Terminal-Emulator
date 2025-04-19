@@ -1,5 +1,6 @@
 RISC-V-Terminal-Emulator
 
+This is just a simple project to understand system calls in RISC-V
 This mini project implements a **basic terminal emulator using RISC-V assembly language**, built to run on a Linux system via RISC-V emulation. The terminal supports a small set of commands:
 - `help` – Displays a list of available commands
 - `sysinfo` – Shows system information (CPU and memory)
